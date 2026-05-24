@@ -1,0 +1,1837 @@
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1}
+{"status": "format_error", "Question ID": 2}
+{"status": "format_error", "Question ID": 3}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 4}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 5}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 6}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 7}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 8}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 9}
+{"status": "format_error", "Question ID": 10}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 11}
+{"status": "format_error", "Question ID": 12}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 13}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 14}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 15}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 16}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 17}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 18}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 19}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 20}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 21}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 22}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 23}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 24}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 25}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 26}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 27}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 28}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 29}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 30}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 31}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 32}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 33}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 34}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 35}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 36}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 37}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 38}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 39}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 40}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 41}
+{"status": "format_error", "Question ID": 42}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 43}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 44}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 45}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 46}
+{"status": "format_error", "Question ID": 47}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 48}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 49}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 50}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 51}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 52}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 53}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 54}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 55}
+{"status": "format_error", "Question ID": 56}
+{"status": "format_error", "Question ID": 57}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 58}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 59}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 60}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 61}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 62}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 63}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 64}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 65}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 66}
+{"status": "format_error", "Question ID": 67}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 68}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 69}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 70}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 71}
+{"status": "format_error", "Question ID": 72}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 73}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 74}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 75}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 76}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 77}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 78}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 79}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 80}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 81}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 82}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 83}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 84}
+{"status": "format_error", "Question ID": 85}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 86}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 87}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 88}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 89}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 90}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 91}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 92}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 93}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 94}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 95}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 96}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 97}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 98}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 99}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 100}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 101}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 102}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 103}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 104}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 105}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 106}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 107}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 108}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 109}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 110}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 111}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 112}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 113}
+{"status": "format_error", "Question ID": 114}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 115}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 116}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 117}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 118}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 119}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 120}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 121}
+{"status": "format_error", "Question ID": 122}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 123}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 124}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 125}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 126}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 127}
+{"status": "format_error", "Question ID": 128}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 129}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 130}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 131}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 132}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 133}
+{"status": "format_error", "Question ID": 134}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 135}
+{"status": "format_error", "Question ID": 136}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 137}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 138}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 139}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 140}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 141}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 142}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 143}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 144}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 145}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 146}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 147}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 148}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 149}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 150}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 151}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 152}
+{"status": "format_error", "Question ID": 153}
+{"status": "format_error", "Question ID": 154}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 155}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 156}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 157}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 158}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 159}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 160}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 161}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 162}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 163}
+{"status": "format_error", "Question ID": 164}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 165}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 166}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 167}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 168}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 169}
+{"status": "format_error", "Question ID": 170}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 171}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 172}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 173}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 174}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 175}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 176}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 177}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 178}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 179}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 180}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 181}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 182}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 183}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 184}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 185}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 186}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 187}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 188}
+{"status": "format_error", "Question ID": 189}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 190}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 191}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 192}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 193}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 194}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 195}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 196}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 197}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 198}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 199}
+{"status": "format_error", "Question ID": 200}
+{"status": "format_error", "Question ID": 201}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 202}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 203}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 204}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 205}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 206}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 207}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 208}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 209}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 210}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 211}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 212}
+{"status": "format_error", "Question ID": 213}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 214}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 215}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 216}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 217}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 218}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 219}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 220}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 221}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 222}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 223}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 224}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 225}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 226}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 227}
+{"status": "format_error", "Question ID": 228}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 229}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 230}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 231}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 232}
+{"status": "format_error", "Question ID": 233}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 234}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 235}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 236}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 237}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 238}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 239}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 240}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 241}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 242}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 243}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 244}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 245}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 246}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 247}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 248}
+{"status": "format_error", "Question ID": 249}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 250}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 251}
+{"status": "format_error", "Question ID": 252}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 253}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 254}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 255}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 256}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 257}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 258}
+{"status": "format_error", "Question ID": 259}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 260}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 261}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 262}
+{"status": "format_error", "Question ID": 263}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 264}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 265}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 266}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 267}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 268}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 269}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 270}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 271}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 272}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 273}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 274}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 275}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 276}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 277}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 278}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 279}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 280}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 281}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 282}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 283}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 284}
+{"status": "format_error", "Question ID": 285}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 286}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 287}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 288}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 289}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 290}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 291}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 292}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 293}
+{"status": "format_error", "Question ID": 294}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 295}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 296}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 297}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 298}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 299}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 300}
+{"status": "format_error", "Question ID": 301}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 302}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 303}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 304}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 305}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 306}
+{"status": "format_error", "Question ID": 307}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 308}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 309}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 310}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 311}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 312}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 313}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 314}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 315}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 316}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 317}
+{"status": "format_error", "Question ID": 318}
+{"status": "format_error", "Question ID": 319}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 320}
+{"status": "format_error", "Question ID": 321}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 322}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 323}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 324}
+{"status": "format_error", "Question ID": 325}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 326}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 327}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 328}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 329}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 330}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 331}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 332}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 333}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 334}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 335}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 336}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 337}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 338}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 339}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 340}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 341}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 342}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 343}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 344}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 345}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 346}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 347}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 348}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 349}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 350}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 351}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 352}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 353}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 354}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 355}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 356}
+{"status": "format_error", "Question ID": 357}
+{"status": "format_error", "Question ID": 358}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 359}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 360}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 361}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 362}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 363}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 364}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 365}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 366}
+{"status": "format_error", "Question ID": 367}
+{"status": "format_error", "Question ID": 368}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 369}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 370}
+{"status": "format_error", "Question ID": 371}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 372}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 373}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 374}
+{"status": "format_error", "Question ID": 375}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 376}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 377}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 378}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 379}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 380}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 381}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 382}
+{"status": "format_error", "Question ID": 383}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 384}
+{"status": "format_error", "Question ID": 385}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 386}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 387}
+{"status": "format_error", "Question ID": 388}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 389}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 390}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 391}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 392}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 393}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 394}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 395}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 396}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 397}
+{"status": "format_error", "Question ID": 398}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 399}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 400}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 401}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 402}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 403}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 404}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 405}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 406}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 407}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 408}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 409}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 410}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 411}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 412}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 413}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 414}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 415}
+{"status": "format_error", "Question ID": 416}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 417}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 418}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 419}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 420}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 421}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 422}
+{"status": "format_error", "Question ID": 423}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 424}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 425}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 426}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 427}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 428}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 429}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 430}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 431}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 432}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 433}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 434}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 435}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 436}
+{"status": "format_error", "Question ID": 437}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 438}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 439}
+{"status": "format_error", "Question ID": 440}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 441}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 442}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 443}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 444}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 445}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 446}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 447}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 448}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 449}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 450}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 451}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 452}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 453}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 454}
+{"status": "format_error", "Question ID": 455}
+{"status": "format_error", "Question ID": 456}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 457}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 458}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 459}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 460}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 461}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 462}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 463}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 464}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 465}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 466}
+{"status": "format_error", "Question ID": 467}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 468}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 469}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 470}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 471}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 472}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 473}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 474}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 475}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 476}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 477}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 478}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 479}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 480}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 481}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 482}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 483}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 484}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 485}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 486}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 487}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 488}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 489}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 490}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 491}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 492}
+{"status": "format_error", "Question ID": 493}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 494}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 495}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 496}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 497}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 498}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 499}
+{"status": "format_error", "Question ID": 500}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 501}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 502}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 503}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 504}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 505}
+{"status": "format_error", "Question ID": 506}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 507}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 508}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 509}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 510}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 511}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 512}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 513}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 514}
+{"status": "format_error", "Question ID": 515}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 516}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 517}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 518}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 519}
+{"status": "format_error", "Question ID": 520}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 521}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 522}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 523}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 524}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 525}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 526}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 527}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 528}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 529}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 530}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 531}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 532}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 533}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 534}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 535}
+{"status": "format_error", "Question ID": 536}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 537}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 538}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 539}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 540}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 541}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 542}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 543}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 544}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 545}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 546}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 547}
+{"status": "format_error", "Question ID": 548}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 549}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 550}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 551}
+{"status": "format_error", "Question ID": 552}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 553}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 554}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 555}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 556}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 557}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 558}
+{"status": "format_error", "Question ID": 559}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 560}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 561}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 562}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 563}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 564}
+{"status": "format_error", "Question ID": 565}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 566}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 567}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 568}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 569}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 570}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 571}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 572}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 573}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 574}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 575}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 576}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 577}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 578}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 579}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 580}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 581}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 582}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 583}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 584}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 585}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 586}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 587}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 588}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 589}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 590}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 591}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 592}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 593}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 594}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 595}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 596}
+{"status": "format_error", "Question ID": 597}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 598}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 599}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 600}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 601}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 602}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 603}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 604}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 605}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 606}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 607}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 608}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 609}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 610}
+{"status": "format_error", "Question ID": 611}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 612}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 613}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 614}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 615}
+{"status": "format_error", "Question ID": 616}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 617}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 618}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 619}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 620}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 621}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 622}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 623}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 624}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 625}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 626}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 627}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 628}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 629}
+{"status": "format_error", "Question ID": 630}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 631}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 632}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 633}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 634}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 635}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 636}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 637}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 638}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 639}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 640}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 641}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 642}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 643}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 644}
+{"status": "format_error", "Question ID": 645}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 646}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 647}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 648}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 649}
+{"status": "format_error", "Question ID": 650}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 651}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 652}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 653}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 654}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 655}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 656}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 657}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 658}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 659}
+{"status": "format_error", "Question ID": 660}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 661}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 662}
+{"status": "format_error", "Question ID": 663}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 664}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 665}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 666}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 667}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 668}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 669}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 670}
+{"status": "format_error", "Question ID": 671}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 672}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 673}
+{"status": "format_error", "Question ID": 674}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 675}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 676}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 677}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 678}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 679}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 680}
+{"status": "format_error", "Question ID": 681}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 682}
+{"status": "format_error", "Question ID": 683}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 684}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 685}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 686}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 687}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 688}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 689}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 690}
+{"status": "format_error", "Question ID": 691}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 692}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 693}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 694}
+{"status": "format_error", "Question ID": 695}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 696}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 697}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 698}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 699}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 700}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 701}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 702}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 703}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 704}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 705}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 706}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 707}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 708}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 709}
+{"status": "format_error", "Question ID": 710}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 711}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 712}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 713}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 714}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 715}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 716}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 717}
+{"status": "format_error", "Question ID": 718}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 719}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 720}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 721}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 722}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 723}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 724}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 725}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 726}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 727}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 728}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 729}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 730}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 731}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 732}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 733}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 734}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 735}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 736}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 737}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 738}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 739}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 740}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 741}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 742}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 743}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 744}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 745}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 746}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 747}
+{"status": "format_error", "Question ID": 748}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 749}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 750}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 751}
+{"status": "format_error", "Question ID": 752}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 753}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 754}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 755}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 756}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 757}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 758}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 759}
+{"status": "format_error", "Question ID": 760}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 761}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 762}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 763}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 764}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 765}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 766}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 767}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 768}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 769}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 770}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 771}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 772}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 773}
+{"status": "format_error", "Question ID": 774}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 775}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 776}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 777}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 778}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 779}
+{"status": "format_error", "Question ID": 780}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 781}
+{"status": "format_error", "Question ID": 782}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 783}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 784}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 785}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 786}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 787}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 788}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 789}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 790}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 791}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 792}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 793}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 794}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 795}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 796}
+{"status": "format_error", "Question ID": 797}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 798}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 799}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 800}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 801}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 802}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 803}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 804}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 805}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 806}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 807}
+{"status": "format_error", "Question ID": 808}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 809}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 810}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 811}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 812}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 813}
+{"status": "format_error", "Question ID": 814}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 815}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 816}
+{"status": "format_error", "Question ID": 817}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 818}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 819}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 820}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 821}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 822}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 823}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 824}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 825}
+{"status": "format_error", "Question ID": 826}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 827}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 828}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 829}
+{"status": "format_error", "Question ID": 830}
+{"status": "format_error", "Question ID": 831}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 832}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 833}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 834}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 835}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 836}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 837}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 838}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 839}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 840}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 841}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 842}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 843}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 844}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 845}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 846}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 847}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 848}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 849}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 850}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 851}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 852}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 853}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 854}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 855}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 856}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 857}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 858}
+{"status": "format_error", "Question ID": 859}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 860}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 861}
+{"status": "format_error", "Question ID": 862}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 863}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 864}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 865}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 866}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 867}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 868}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 869}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 870}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 871}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 872}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 873}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 874}
+{"status": "format_error", "Question ID": 875}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 876}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 877}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 878}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 879}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 880}
+{"status": "format_error", "Question ID": 881}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 882}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 883}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 884}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 885}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 886}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 887}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 888}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 889}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 890}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 891}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 892}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 893}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 894}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 895}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 896}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 897}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 898}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 899}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 900}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 901}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 902}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 903}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 904}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 905}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 906}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 907}
+{"status": "format_error", "Question ID": 908}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 909}
+{"status": "format_error", "Question ID": 910}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 911}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 912}
+{"status": "format_error", "Question ID": 913}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 914}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 915}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 916}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 917}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 918}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 919}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 920}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 921}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 922}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 923}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 924}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 925}
+{"status": "format_error", "Question ID": 926}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 927}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 928}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 929}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 930}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 931}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 932}
+{"status": "format_error", "Question ID": 933}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 934}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 935}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 936}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 937}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 938}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 939}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 940}
+{"status": "format_error", "Question ID": 941}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 942}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 943}
+{"status": "format_error", "Question ID": 944}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 945}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 946}
+{"status": "format_error", "Question ID": 947}
+{"status": "format_error", "Question ID": 948}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 949}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 950}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 951}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 952}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 953}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 954}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 955}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 956}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 957}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 958}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 959}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 960}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 961}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 962}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 963}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 964}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 965}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 966}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 967}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 968}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 969}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 970}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 971}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 972}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 973}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 974}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 975}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 976}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 977}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 978}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 979}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 980}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 981}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 982}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 983}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 984}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 985}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 986}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 987}
+{"status": "format_error", "Question ID": 988}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 989}
+{"status": "format_error", "Question ID": 990}
+{"status": "format_error", "Question ID": 991}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 992}
+{"status": "format_error", "Question ID": 993}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 994}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 995}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 996}
+{"status": "format_error", "Question ID": 997}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 998}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 999}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1000}
+{"status": "format_error", "Question ID": 1001}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1002}
+{"status": "format_error", "Question ID": 1003}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1004}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1005}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1006}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1007}
+{"status": "format_error", "Question ID": 1008}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 1009}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1010}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1011}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1012}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1013}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1014}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1015}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1016}
+{"status": "format_error", "Question ID": 1017}
+{"status": "format_error", "Question ID": 1018}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1019}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1020}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1021}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1022}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1023}
+{"status": "format_error", "Question ID": 1024}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1025}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1026}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1027}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1028}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1029}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1030}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1031}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1032}
+{"status": "format_error", "Question ID": 1033}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1034}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1035}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1036}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1037}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1038}
+{"status": "format_error", "Question ID": 1039}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1040}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1041}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1042}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1043}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1044}
+{"status": "format_error", "Question ID": 1045}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1046}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1047}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1048}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1049}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1050}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1051}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1052}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1053}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1054}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1055}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1056}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1057}
+{"status": "format_error", "Question ID": 1058}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1059}
+{"status": "format_error", "Question ID": 1060}
+{"status": "format_error", "Question ID": 1061}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1062}
+{"status": "format_error", "Question ID": 1063}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1064}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1065}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1066}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1067}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1068}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1069}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1070}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1071}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1072}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1073}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1074}
+{"status": "format_error", "Question ID": 1075}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1076}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1077}
+{"status": "format_error", "Question ID": 1078}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1079}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1080}
+{"status": "format_error", "Question ID": 1081}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1082}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1083}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1084}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1085}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1086}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1087}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1088}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1089}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1090}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1091}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1092}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1093}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1094}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1095}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1096}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1097}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1098}
+{"status": "format_error", "Question ID": 1099}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1100}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1101}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1102}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1103}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1104}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1105}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1106}
+{"status": "format_error", "Question ID": 1107}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1108}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1109}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1110}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1111}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1112}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1113}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1114}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1115}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1116}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1117}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 1118}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1119}
+{"status": "format_error", "Question ID": 1120}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1121}
+{"status": "format_error", "Question ID": 1122}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1123}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1124}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1125}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1126}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1127}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1128}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1129}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1130}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1131}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1132}
+{"status": "format_error", "Question ID": 1133}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1134}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1135}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1136}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1137}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1138}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1139}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1140}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1141}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1142}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 1143}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1144}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1145}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1146}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1147}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1148}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1149}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1150}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1151}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1152}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1153}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1154}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1155}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1156}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1157}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1158}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1159}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1160}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1161}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1162}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1163}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 1164}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1165}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1166}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1167}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1168}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1169}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1170}
+{"status": "format_error", "Question ID": 1171}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1172}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1173}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1174}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1175}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1176}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1177}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1178}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1179}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 1180}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1181}
+{"status": "format_error", "Question ID": 1182}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1183}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1184}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1185}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1186}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1187}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1188}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 1189}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1190}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1191}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1192}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1193}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1194}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1195}
+{"status": "format_error", "Question ID": 1196}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1197}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1198}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1199}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1200}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1201}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1202}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1203}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1204}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1205}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1206}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1207}
+{"status": "format_error", "Question ID": 1208}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1209}
+{"status": "format_error", "Question ID": 1210}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1211}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1212}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1213}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1214}
+{"status": "format_error", "Question ID": 1215}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1216}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1217}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1218}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1219}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1220}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1221}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1222}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1223}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1224}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1225}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1226}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1227}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1228}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1229}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1230}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1231}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1232}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1233}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 1234}
+{"status": "format_error", "Question ID": 1235}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1236}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 1237}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1238}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1239}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1240}
+{"status": "format_error", "Question ID": 1241}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1242}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1243}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 1244}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1245}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1246}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1247}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1248}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1249}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1250}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1251}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1252}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1253}
+{"status": "format_error", "Question ID": 1254}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1255}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1256}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1257}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 1258}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1259}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1260}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1261}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1262}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1263}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1264}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1265}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 1266}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1267}
+{"status": "format_error", "Question ID": 1268}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1269}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1270}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1271}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1272}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1273}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1274}
+{"status": "format_error", "Question ID": 1275}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1276}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1277}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1278}
+{"status": "format_error", "Question ID": 1279}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1280}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1281}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1282}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1283}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1284}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1285}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1286}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1287}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1288}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1289}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 1290}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1291}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 1292}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1293}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1294}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 1295}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1296}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1297}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1298}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1299}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1300}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1301}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1302}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1303}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1304}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1305}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1306}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1307}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1308}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1309}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1310}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1311}
+{"status": "format_error", "Question ID": 1312}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1313}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1314}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1315}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1316}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1317}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1318}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1319}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1320}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1321}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1322}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1323}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 1324}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1325}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1326}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1327}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1328}
+{"status": "format_error", "Question ID": 1329}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1330}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1331}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1332}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1333}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1334}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1335}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1336}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1337}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1338}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1339}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1340}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1341}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1342}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1343}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1344}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1345}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1346}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1347}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1348}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1349}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1350}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1351}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1352}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1353}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1354}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1355}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1356}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1357}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1358}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1359}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1360}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1361}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1362}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1363}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1364}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1365}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1366}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1367}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1368}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1369}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1370}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1371}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1372}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1373}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1374}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1375}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1376}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1377}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1378}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1379}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1380}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1381}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1382}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1383}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1384}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1385}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1386}
+{"status": "format_error", "Question ID": 1387}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1388}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1389}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1390}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1391}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1392}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1393}
+{"status": "format_error", "Question ID": 1394}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1395}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1396}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1397}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1398}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1399}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1400}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1401}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1402}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 1403}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1404}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1405}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1406}
+{"status": "format_error", "Question ID": 1407}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1408}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1409}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1410}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1411}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1412}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1413}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1414}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1415}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1416}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1417}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1418}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1419}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1420}
+{"status": "format_error", "Question ID": 1421}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1422}
+{"status": "format_error", "Question ID": 1423}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1424}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1425}
+{"status": "format_error", "Question ID": 1426}
+{"status": "format_error", "Question ID": 1427}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1428}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1429}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1430}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1431}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1432}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1433}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1434}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1435}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1436}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1437}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1438}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1439}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1440}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1441}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1442}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1443}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 1444}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1445}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1446}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1447}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1448}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1449}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1450}
+{"status": "format_error", "Question ID": 1451}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1452}
+{"status": "format_error", "Question ID": 1453}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1454}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1455}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1456}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1457}
+{"status": "format_error", "Question ID": 1458}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1459}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1460}
+{"status": "format_error", "Question ID": 1461}
+{"status": "format_error", "Question ID": 1462}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1463}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1464}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1465}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1466}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1467}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1468}
+{"status": "format_error", "Question ID": 1469}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1470}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1471}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1472}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1473}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1474}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1475}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1476}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1477}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1478}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1479}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1480}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1481}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1482}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1483}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1484}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1485}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1486}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1487}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1488}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1489}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1490}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1491}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1492}
+{"status": "format_error", "Question ID": 1493}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1494}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1495}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 1496}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1497}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1498}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1499}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1500}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1501}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1502}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1503}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1504}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1505}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1506}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1507}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1508}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1509}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1510}
+{"status": "format_error", "Question ID": 1511}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1512}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1513}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1514}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1515}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1516}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1517}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 1518}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1519}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1520}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1521}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1522}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1523}
+{"status": "format_error", "Question ID": 1524}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1525}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1526}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1527}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1528}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1529}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1530}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1531}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1532}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1533}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1534}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1535}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1536}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 1537}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1538}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1539}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1540}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1541}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1542}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1543}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1544}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1545}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1546}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 1547}
+{"status": "format_error", "Question ID": 1548}
+{"status": "format_error", "Question ID": 1549}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1550}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1551}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1552}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1553}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1554}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1555}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1556}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1557}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1558}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1559}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1560}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1561}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1562}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1563}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1564}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1565}
+{"status": "format_error", "Question ID": 1566}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1567}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1568}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1569}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1570}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1571}
+{"status": "format_error", "Question ID": 1572}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1573}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1574}
+{"status": "format_error", "Question ID": 1575}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1576}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1577}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1578}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 1579}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1580}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1581}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1582}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1583}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1584}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1585}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1586}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1587}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1588}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1589}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1590}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1591}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1592}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1593}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1594}
+{"status": "format_error", "Question ID": 1595}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1596}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1597}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 1598}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1599}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1600}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1601}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1602}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1603}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1604}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1605}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 1606}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1607}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1608}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1609}
+{"status": "format_error", "Question ID": 1610}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1611}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1612}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1613}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1614}
+{"status": "format_error", "Question ID": 1615}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1616}
+{"status": "format_error", "Question ID": 1617}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1618}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1619}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1620}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1621}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1622}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1623}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1624}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1625}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1626}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1627}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1628}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1629}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1630}
+{"status": "format_error", "Question ID": 1631}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1632}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1633}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1634}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1635}
+{"status": "format_error", "Question ID": 1636}
+{"status": "format_error", "Question ID": 1637}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1638}
+{"status": "format_error", "Question ID": 1639}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1640}
+{"status": "format_error", "Question ID": 1641}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1642}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1643}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1644}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1645}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1646}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1647}
+{"status": "format_error", "Question ID": 1648}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1649}
+{"status": "format_error", "Question ID": 1650}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1651}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1652}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1653}
+{"status": "format_error", "Question ID": 1654}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1655}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1656}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1657}
+{"status": "format_error", "Question ID": 1658}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1659}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1660}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1661}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1662}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1663}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1664}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1665}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1666}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1667}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1668}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1669}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1670}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1671}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1672}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1673}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1674}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1675}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1676}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1677}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 1678}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1679}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1680}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1681}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1682}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 1683}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1684}
+{"status": "format_error", "Question ID": 1685}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1686}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1687}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1688}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1689}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1690}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1691}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1692}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1693}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1694}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1695}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1696}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1697}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1698}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1699}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1700}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1701}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1702}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1703}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1704}
+{"status": "format_error", "Question ID": 1705}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1706}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1707}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1708}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1709}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1710}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1711}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1712}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1713}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1714}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1715}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1716}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1717}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1718}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1719}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1720}
+{"status": "format_error", "Question ID": 1721}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1722}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1723}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1724}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1725}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1726}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1727}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1728}
+{"status": "correct", "tool_calls": 2, "images_used": 24, "Question ID": 1729}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1730}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1731}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1732}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1733}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1734}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1735}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1736}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1737}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1738}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1739}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1740}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1741}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1742}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1743}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1744}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1745}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1746}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1747}
+{"status": "format_error", "Question ID": 1748}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1749}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1750}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1751}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1752}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1753}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1754}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1755}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1756}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1757}
+{"status": "format_error", "Question ID": 1758}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1759}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1760}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1761}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1762}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1763}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1764}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1765}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1766}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1767}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1768}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1769}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1770}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1771}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1772}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1773}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1774}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1775}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1776}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1777}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1778}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1779}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1780}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1781}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1782}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1783}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1784}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1785}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1786}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1787}
+{"status": "format_error", "Question ID": 1788}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1789}
+{"status": "format_error", "Question ID": 1790}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1791}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1792}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1793}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1794}
+{"status": "format_error", "Question ID": 1795}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1796}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1797}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1798}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1799}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1800}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1801}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1802}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1803}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1804}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1805}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1806}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1807}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1808}
+{"status": "format_error", "Question ID": 1809}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1810}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1811}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1812}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1813}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1814}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1815}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1816}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1817}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1818}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1819}
+{"status": "format_error", "Question ID": 1820}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1821}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1822}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1823}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1824}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1825}
+{"status": "wrong_answer", "tool_calls": 1, "images_used": 16, "Question ID": 1826}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1827}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1828}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1829}
+{"status": "correct", "tool_calls": 1, "images_used": 16, "Question ID": 1830}
+{"status": "format_error", "Question ID": 1831}
+{"status": "wrong_answer", "tool_calls": 2, "images_used": 24, "Question ID": 1832}
+{"status": "correct", "tool_calls": 0, "images_used": 8, "Question ID": 1833}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1834}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1835}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1836}
+{"status": "wrong_answer", "tool_calls": 0, "images_used": 8, "Question ID": 1837}
